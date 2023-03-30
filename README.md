@@ -7,7 +7,7 @@
 
 - 🎯 High self-disciplined with a constant drive for professional excellence.
 
-- 🏆 I recently built a clone of Trello, check it out, it has everything! [Shmello](https://shmello.onrender.com/)
+- 🏆 I recently built a clone of Trello, check it out, it has everything! [Shmello](https://github.com/YorkLidor/Trello)
 
 - 📫 You can reach me at matanad3@gmail.com
 
